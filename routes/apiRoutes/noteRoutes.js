@@ -1,5 +1,5 @@
 const { findById, createNewNote, validateNote } = require('../../lib/notes');
-const notes = require("../../db/db");
+const notes = require("../../db/db.json");
 const router = require('express').Router();
 const fs = require("fs");
 const path = require("path");
