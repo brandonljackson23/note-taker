@@ -10,7 +10,7 @@ router.get("/notes", (req, res) => {
 });
 
 router.get("*", (req, res) => {
-    res.redirect("../../public/index.html");
+    res.redirect(path.join(__dirname, "../../public/index.html");
 });
 
 module.exports = router;
