@@ -13,7 +13,7 @@ A tool that allows a user to create notes to help stay organized.
 [5. CONTRIBUTING](#CONTRIBUTING)  
 [6. TESTS](#TESTS)  
 [7. LICENSE](#LICENSE)  
-[8. DEMO VIDEO](#DEMO-VIDEO)  
+[8. FUNCTIONALITY](#FUNCTIONALITY)  
 [9. QUESTIONS](#QUESTIONS)  
 
 ---
